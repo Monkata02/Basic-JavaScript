@@ -31,3 +31,5 @@ function solve(day, age) {
         console.log(`Error!`);
     }
 }
+
+/* price of a ticket based on the day of the week and the age of the person */
